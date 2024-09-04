@@ -1,6 +1,6 @@
 # Fake_New_Classifier
 
-## Live Link - https://fakenewclassifier-2317.streamlit.app/
+## Live Link - https://fakenewclassifier-2317.streamlit.app/   The app may take time to load as it is uploaded on streamlit cloud free version. Meanwhile you can check the demo video below
 
 ## Demo Video - Demonstration
 
